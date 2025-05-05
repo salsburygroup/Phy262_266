@@ -27,9 +27,9 @@ Both courses are offered at **Wake Forest University** and integrate **computati
 
 This repository includes:
 
-- Jupyter Notebooks covering computational labs and examples
-- Links to external materials on Google Drive
-- Assignments, experiment results, and example code
+- Jupyter Notebooks for each lab in the Notebooks directory
+- Links to the course assignments as external materials on Google Drive in links.md
+- Link to the GAI assignment, reports and summary in links.md
 
 > ⚠️ **Note**: Some notebooks currently label the **Velocity Verlet** integrator as **Leapfrog**. This naming is being corrected in ongoing revisions.
 > 
