@@ -40,6 +40,8 @@ This repository includes:
 - One could make the assignments easier or harder by reducing on increasing how much is given in the assignments.
 - data directory with the data for the notebooks.
 - The focus on PHY 266 is on data analysis which they might be able to use in experimental work.
+- The PHY 266 re-design was inspired by a Data Science Community of Practice Workshop (https://dsecop.org/).
+- The 01 Lab is a lightly edited version of one of their modules. The 02 Lab was inspired by another, but redone for students with less python proficiency. 
 
 ---
 ### Misc Comments
