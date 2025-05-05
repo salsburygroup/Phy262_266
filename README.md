@@ -49,4 +49,4 @@ This repository includes:
 - The audience of Phy 262 is engineering, biophysics, and physics majors. The audience of Phy 266 is biophysics and physics majors.
 - To ensure robust and easy access to a standard Python environment, we used the WFU DEAC HPC https://is.wfu.edu/high-performance-computing/
 - The Generative AI mini-project for Spring 2025 used Amazon Bedrock for easy access to multiple GAI models, to which WFU IS kindly gave us access.
-- The spring 2024 GAI assignments just focused on ChatGPT and could be readily done without Amazon Bedrock.
+- The spring 2024 GAI assignment focused on ChatGPT and was done without Amazon Bedrock.
