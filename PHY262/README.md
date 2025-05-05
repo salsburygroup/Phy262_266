@@ -1,12 +1,41 @@
-## 📚 Course Resources Overview
+## Computational Course Materials: PHY 262 & PHY 266
 
-This repository includes links to essential computational course materials.
-Included in the links.md file are:
-- **All computational assignment files**
-   The first three homework assignments included as well as the first computational labs are applied to problems on these assignments, before moving onto separate computational assignments.
-- **Results from Two Years of Generative AI (GAI) Experiments**
-  A collection of assignments, reports and summaries from this semester and last year on using Generative AI on a mid-semester assignment.
-Included in the notebooks directory are:
-- **Dr. Salsbury’s Jupyter Notebooks**  
-  The full Jupyter notebooks for the assignments:
->  **Note**: This course assumes no prior exposure to Python or computational tools. The instructional design features extensive scaffolding—from fully worked examples to gradually open-ended coding challenges—to build student competence and confidence.
+This repository contains materials for:
+
+- **PHY 262: Mechanics**  
+- **PHY 266 (first half): Intermediate Laboratory**
+
+Both courses are offered at **Wake Forest University** and integrate **computation as a central component** of instruction.
+
+---
+
+### Prerequisites
+
+**PHY 262** assumes completion of:
+
+- PHY 113 (General Physics I)
+- One of the following:
+  - MTH 205 (Differential Equations & Linear Algebra)
+  - MTH 251 (Differential Equations)
+- With MTH 113 (Calculus III) as a co-requisite or prerequisite
+
+**PHY 266** requires Phy 262 as a co-requisite or prerequisite
+
+---
+
+### Repository Contents
+
+This repository includes:
+
+- Jupyter Notebooks covering computational labs and examples
+- Links to external materials on Google Drive
+- Assignments, experiment results, and example code
+
+> ⚠️ **Note**: Some notebooks currently label the **Velocity Verlet** integrator as **Leapfrog**. This naming is being corrected in ongoing revisions.
+> 
+---
+### Misc Comments
+
+- The audience of Phy 262 is engineering, biophysics, and physics majors. The audience of Phy 266 is biophysics and physics majors.
+- To ensure robust and easy access to a standard python environment we used the WFU DEAC HPC https://is.wfu.edu/high-performance-computing/
+
